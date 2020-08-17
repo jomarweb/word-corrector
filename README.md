@@ -1,2 +1,2 @@
 # word-corrector
-Correct misspelled word base from your provided dictionaries 
+Correct misspelled word base from your dictionaries 
