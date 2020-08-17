@@ -1,0 +1,23 @@
+{
+  "name": "word-corrector",
+  "version": "1.0.0",
+  "description": "Correct misspelled word base from your dictionaries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jomarweb/word-corrector.git"
+  },
+  "keywords": [
+    "nlp",
+    "node.js"
+  ],
+  "author": "jomar bagaporo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jomarweb/word-corrector/issues"
+  },
+  "homepage": "https://github.com/jomarweb/word-corrector#readme"
+}
